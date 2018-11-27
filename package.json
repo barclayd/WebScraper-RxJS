@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/barclayd/WebScraper-RxJS#readme",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
     "normalize-url": "^4.0.0",
-    "rxjs": "^6.3.3"
+    "request-promise-native": "^1.0.5",
+    "rxjs": "^6.3.3",
+    "url": "^0.11.0"
   }
 }
