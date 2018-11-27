@@ -1,0 +1,24 @@
+{
+  "name": "webscraper-rxjs",
+  "version": "1.0.0",
+  "description": "Scrape the web!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barclayd/WebScraper-RxJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barclayd/WebScraper-RxJS/issues"
+  },
+  "homepage": "https://github.com/barclayd/WebScraper-RxJS#readme",
+  "dependencies": {
+    "normalize-url": "^4.0.0",
+    "rxjs": "^6.3.3"
+  }
+}
